@@ -1,3 +1,5 @@
+#include "arduino_secrets.h"
+
 const int led = 13;
 const int buz = 8;
 String code = "";
@@ -617,4 +619,4 @@ void loop() {
     Serial.println(); 
   }
   delay(1000);
-}
+  }
