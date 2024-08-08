@@ -1,4 +1,4 @@
-** Description of the Morse Code Translator **
+<strong> Description of the Morse Code Translator </strong>
 
 <strong>Morse Code Translator Project Using Arduino</strong>
 <br><br>
